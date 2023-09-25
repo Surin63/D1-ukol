@@ -77,7 +77,7 @@ public class Main {
         int carrot = 5000;
         String town = ("Karvina");
         String spz = ("1UE8833");
-        String l = 6.7 + " l/km";
+        String l = 6.8 + " l/km";
         String ip = ("192.168.0.0/16");
 
         System.out.println(name + " prumerne proda " + carrot/invoice + " t mrkve na 1 smlouvu.");
