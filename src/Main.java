@@ -15,12 +15,12 @@ public class Main {
     }
 
     public static void ukol3() {
-        String pocetLekci = ("10");
+        int pocetLekci = 10;
         System.out.println(pocetLekci);
     }
 
     public static void ukol4() {
-        String cena = ("10.0");
+        double cena = 10.0;
         System.out.println(cena);
     }
 
@@ -43,7 +43,7 @@ public class Main {
     }
 
     public static void ukol7() {
-        String vykonMotoru = "120";
+        int vykonMotoru = 120;
         System.out.println("Výkon Motoru je: " + vykonMotoru + " kW.");
     }
 
